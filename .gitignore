@@ -1,0 +1,12 @@
+CV2/.idea
+CV2/.ipynb_*
+CV2/.vscode
+
+Excel_Dealing/.idea
+
+L_Pytorch/hymenoptera_data/train
+L_Pytorch/hymenoptera_data/val
+L_Pytorch/dataset
+L_Pytorch/__pycache__
+L_Pytorch/.idea
+L_Pytorch/logs
