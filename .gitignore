@@ -10,3 +10,5 @@ L_Pytorch/dataset
 L_Pytorch/__pycache__
 L_Pytorch/.idea
 L_Pytorch/logs
+
+log*
