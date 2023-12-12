@@ -12,3 +12,5 @@ L_Pytorch/.idea
 L_Pytorch/logs
 
 log*
+
+*.mp4
